@@ -63,8 +63,8 @@ jupyter notebook Rock_Paper_Scissors_Classifier.ipynb
 
 - **Training Accuracy**: ~98%
 - **Validation Accuracy**: ~99%
-- **Test Accuracy**: ~99%
-- **Training Time**: ~15-20 minutes on GPU
+- **Test Accuracy**: ~95%
+- **Training Time**: ~15-20 minutes on CPU
 
 ## 🔧 Model Configuration
 
@@ -103,10 +103,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - TensorFlow and Keras communities for excellent documentation
 - Open source contributors who made this project possible
 
-## 📞 Contact
-
-If you have any questions or suggestions, feel free to reach out!
-
----
 
 **Made with ❤️ using TensorFlow**
